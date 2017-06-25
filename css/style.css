@@ -2,7 +2,15 @@ body {
   background-image: url(../img/background.png);
   background-repeat: no-repeat;
   background-size: cover;
+  width: 80%;
+}
+.pics{
+  width: 80%;
+  text-align: center;
 }
 .logo{
-  text-align: center;
+  background: url(../img/logo.png);
+  height: 200px;
+  width:  400px;
+  background-repeat: no-repeat;
 }
