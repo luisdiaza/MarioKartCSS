@@ -1,5 +1,8 @@
 body {
-  background-image: url(../img/background.jpg);
-  /*background-repeat: no-repeat;*/
+  background-image: url(../img/background.png);
+  background-repeat: no-repeat;
   background-size: cover;
+}
+.logo{
+  text-align: center;
 }
